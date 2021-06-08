@@ -3,5 +3,5 @@
 sudo apt install firefox-geckodriver
 
 ## Python libraries
-pip install regex-engine
-pip install selenium
+- pip install regex-engine
+- pip install selenium
